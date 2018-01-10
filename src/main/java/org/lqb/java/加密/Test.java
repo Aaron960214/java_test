@@ -1,4 +1,4 @@
-package org.lqb.java.Test171012;
+package org.lqb.java.加密;
 
 import org.lqb.java.util.MD5Util;
 

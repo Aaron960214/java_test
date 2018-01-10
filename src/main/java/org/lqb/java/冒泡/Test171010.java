@@ -1,4 +1,4 @@
-package org.lqb.java.Test171010;
+package org.lqb.java.冒泡;
 
 import java.util.Random;
 

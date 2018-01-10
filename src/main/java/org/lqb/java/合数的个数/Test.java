@@ -1,4 +1,4 @@
-package org.lqb.java.Test171018;
+package org.lqb.java.合数的个数;
 
 public class Test {
     public static void main(String[] args) {

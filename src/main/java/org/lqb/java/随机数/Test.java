@@ -1,4 +1,4 @@
-package org.lqb.java.Test171019;
+package org.lqb.java.随机数;
 
 import java.util.*;
 
